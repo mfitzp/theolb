@@ -1,15 +1,17 @@
 5X Long PCR Buffer
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: buffer,pcr,molecular-biology,media-solutions
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 5X Long PCR Buffer (store in 1ml aliquots in -20C).
 
 
 
 
-    This buffer seems to work well with Worm Genomic DNA using Taq/Pfu (3:1) mixture.
+This buffer seems to work well with Worm Genomic DNA using Taq/Pfu (3:1) mixture.
+
 
 
 
@@ -34,6 +36,7 @@ Method
 * 120 ul 500 mM Mg(OAc)2
 
 
+
 - Store in 1ml aliquots at -20'C until required.
 
 
@@ -41,6 +44,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://arep.med.harvard.edu/labgc/estep/longPCR_protocol.html>`__.
 
+This method is based, with permission, on an original protocol available `here <http://arep.med.harvard.edu/labgc/estep/longPCR_protocol.html>`_.

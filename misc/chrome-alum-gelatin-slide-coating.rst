@@ -1,15 +1,17 @@
 Chrome Alum Gelatin Slide Coating
 ========================================================================================================
 
-.. sectionauthor:: Luke Hammond <l.hammond@uq.edu.au>
-.. tags:: coating,slides,chrome-alum
+.. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
+
+Contributed by Luke Hammond <l.hammond@uq.edu.au>
 
 Chrome Alum Gelatin Slide Coating
 
 
 
 
-    Clean grease-free slides are needed for the slide coating to be effective.
+Clean grease-free slides are needed for the slide coating to be effective.
+
 
 
 
@@ -27,9 +29,12 @@ Method
 
 - Microwave briefly to dissolve the gelatin
 
+
 - Cool
 
+
 - Dip clean slides and allow to drain vertically.
+
 
 - Once completely dry pack into Slide boxes in a dust free environment.
 
@@ -38,6 +43,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://web.qbi.uq.edu.au/microscopy/?page_id=551>`__.
 
+This method is based, with permission, on an original protocol available `here <http://web.qbi.uq.edu.au/microscopy/?page_id=551>`_.

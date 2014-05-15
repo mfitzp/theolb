@@ -1,8 +1,9 @@
 PLC buffer for Immunoprecipitation
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: buffer,immunoprecipitation,plc,media-solutions
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 PLC buffer for Immunoprecipitation
 
@@ -38,6 +39,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/immunoprecipitation_protocol.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/immunoprecipitation_protocol.htm>`_.

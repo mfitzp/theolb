@@ -1,8 +1,9 @@
 50 mM Tris pH 8.0 10 mM EDTA
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: tris,edta
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 50 mM Tris pH 8.0 10 mM EDTA
 
@@ -23,9 +24,13 @@ Method
 
 - Combine Tris & EDTA to final volume of 7ml
 
+
 - Add H2O up to 100 ml 
 
-    Store at 4'C
+*Store at 4'C*
+
+
+
 
 
 

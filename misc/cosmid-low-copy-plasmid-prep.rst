@@ -1,8 +1,9 @@
 Cosmid / Low Copy Plasmid Prep
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: miniprep,plasmid,cosmid,microprep,prep
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 Prep for cosmids or low copy number plasmids.
 
@@ -36,6 +37,7 @@ Method
 * Resuspend cells in 5 mls resuspension buffer - make sure cells are thoroughly resuspended
 * Transfer cell suspension to 50 ml conical tube
 
+
 - Lyse cells to release cosmid DNA
 
 * Add 5 mls fresh lysis solution and invert gently twice to mix
@@ -53,6 +55,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/cosmid_prep.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/cosmid_prep.htm>`_.

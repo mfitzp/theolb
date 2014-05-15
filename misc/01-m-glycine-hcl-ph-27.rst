@@ -1,8 +1,9 @@
 0.1 M Glycine-HCl, pH 2.7
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: glycine,hcl,media-solutions
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 0.1 M Glycine-HCl, pH 2.7
 
@@ -22,7 +23,10 @@ Method
 
 - Combine 11.1 g Glycine-HCl with 800 ml dH2O
 
+
 - Adjust pH to 2.7 and bring volume to 1 L with dH2O
+
+
 
 
 

@@ -1,8 +1,9 @@
 Colloidal Coomassie Blue Solution
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: sds-page,coomassie,solution
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 Homemade Colloidal Coomassie Blue Staining
 
@@ -12,14 +13,16 @@ Homemade Colloidal Coomassie Blue Staining
 
 
 
-    Adjust quantities as appropriate to the following %vol:
->
->Distilled H20|-|~650 ml
->Ammonium Sulfate|10%|100g
->Coomassie G-250|0.1%|20 ml of % solution in H20
->Ortho-Phosphoric Acid|3%|30 ml
->Ethanol|20%|200 ml
->
+
+Adjust quantities as appropriate to the following %vol:
+
+Distilled H20|-|~650 ml
+Ammonium Sulfate|10%|100g
+Coomassie G-250|0.1%|20 ml of % solution in H20
+Ortho-Phosphoric Acid|3%|30 ml
+Ethanol|20%|200 ml
+
+
 
 
 
@@ -37,7 +40,9 @@ Method
 
 - In a large beaker add the ingredient in the order listed. Make sure the Ammonium Sulfate is dissolved before adding the Coomassie G-250 solution to a final of 0.1%.
 
+
 - Bring final volume up to 1L with H20.
+
 
 - Store at room temperature with a tightly sealed lid.
 
@@ -46,6 +51,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/new_page_8.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/new_page_8.htm>`_.

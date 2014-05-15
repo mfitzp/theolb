@@ -1,8 +1,9 @@
 C. elegans Single Worm PCR
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: pcr,molecular-biology,celegans,model-organisms,worm
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 Single Worm PCR for use with C. elegans
 
@@ -26,20 +27,27 @@ Method
 
 - Add proteinase K to 1 X PCR buffer  (95 ul 1 XPCR buffer + 5 ul 20mg/ml proteinase K)
 
-    We do not use the "Lysis buffer" recipe anymore because 1 X PCR buffer seems to work fine. 
+*We do not use the "Lysis buffer" recipe anymore because 1 X PCR buffer seems to work fine. *
+
+
 
 - Place 5-10 ul  of 1 X PCR buffer + proteniase K  in top of 200 ul PCR tube (if you use more than 1 worm use 10ul instead) 
 
+
 - Pick single worm (or  multiple worms) into lysis buffer. 
+
 
 - Immediately (don't let sit too long in lysis buffer)  spin down to bottom of tube by spinning in microfuge 15 seconds @ 14,000 rpm or just flick down. 
 
+
 - Freeze tube in Liquid Nitrogen  at least 10min. 
+
 
 - Lysis of worm and release of genomic DNA (You can use the PCR machine --"worm lysis" program)
 
 * Heat tube to 65 degrees for 60-90 minutes
 * Inactivate proteinase K by heating to 95 degrees for 15 minutes.  If you do not use the worm DNA right away store at -80C. 
+
 
 - Perform PCR (50ul reaction)
 
@@ -53,12 +61,15 @@ Method
 
 
 
+
 References
 ----------
 
 
-Williams BD, Schrank B, Huynh C, Shownkeen R, Waterston RH `A genetic mapping system in Caenorhabditis elegans based on polymorphic sequence-tagged sites. <http://www.ncbi.nlm.nih.gov/pubmed/1321065>`__ *Genetics* (1992)
-`pmid:1321065 <http://www.ncbi.nlm.nih.gov/pubmed/1321065>`__
+Williams BD, Schrank B, Huynh C, Shownkeen R, Waterston RH `A genetic mapping system in Caenorhabditis elegans based on polymorphic sequence-tagged sites. <http://www.ncbi.nlm.nih.gov/pubmed/1321065>`_ *Genetics* (1992)
+`pmid:1321065 <http://www.ncbi.nlm.nih.gov/pubmed/1321065>`_
+
+
 
 
 

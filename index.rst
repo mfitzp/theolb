@@ -10,8 +10,7 @@ The OLB is a collection of open, freely-available lab protocols collected, with 
 from across the internet. The list has been available in various formats and on various
 sites over that time, but finally finds a home here.
 
-Authors are credited where known emdash; currently in the source, with homepage links in the 
-rendered output where available. Contributions of new protocols or amendments or corrections 
+Authors are credited where known and with homepage links where available. Contributions of new protocols or amendments or corrections 
 to existing ones are most welcome and can be made via the `github repository <http://github.com/mfitzp/theolb>`__.
 
 All content is licensed under the Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5).

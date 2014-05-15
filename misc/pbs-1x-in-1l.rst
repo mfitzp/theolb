@@ -1,8 +1,9 @@
 PBS (1x in 1L)
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: buffer,pbs,media-solutions
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 PBS (1x in 1L)
 
@@ -25,7 +26,10 @@ Method
 
 - Combine ingredients in a suitable container. Add distilled water to 1L
 
-    Store at room temperature.
+*Store at room temperature.*
+
+
+
 
 
 

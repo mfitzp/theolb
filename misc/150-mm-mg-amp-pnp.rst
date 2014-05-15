@@ -1,8 +1,9 @@
 150 mM Mg AMP-PNP
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: amp,pnp
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 150 mM Mg AMP-PNP
 
@@ -23,9 +24,12 @@ Method
 
 - Add 25 mg AMP-PNP and 90ul 1 M MgSO4 in a suitable container.
 
+
 - Add 225 ml distilled water to give a final volume of 315 ml. Store at -20oC
 
-    Store at -20oC
+*Store at -20oC*
+
+
 
 
 
@@ -34,8 +38,10 @@ References
 ----------
 
 
-Clare M. Waterman-Storer `Microtubule/Organelle Motility Assays <http://dx.doi.org/10.1002/0471143030.cb1301s00>`__  (2001)
-`10.1002/0471143030.cb1301s00 <http://dx.doi.org/10.1002/0471143030.cb1301s00>`__
+Clare M. Waterman-Storer `Microtubule/Organelle Motility Assays <http://dx.doi.org/10.1002/0471143030.cb1301s00>`_  (2001)
+`10.1002/0471143030.cb1301s00 <http://dx.doi.org/10.1002/0471143030.cb1301s00>`_
+
+
 
 
 

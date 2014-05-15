@@ -1,8 +1,9 @@
 Determining DNA concentrations for ligations
 ========================================================================================================
 
-.. sectionauthor:: Ivan Delgado <ivanjdo@gmail.com>
-.. tags:: dna,molecular-biology,ligase,vector
+.. sectionauthor:: DNAholic <ivanjdo@gmail.com>
+
+Contributed by Ivan Delgado <ivanjdo@gmail.com>
 
 Calculate DNA concentration for efficient DNA ligations. 
 
@@ -30,13 +31,13 @@ amount of insert for 1 mg of vector = 0.9 ug
 
 If this had been a blunt end ligation, a 1:1 ratio would have been used and the amount of insert necessary would have been 0.3 ug
 
-    These calculations were made for the equivalent of 10 units of ligase
+*These calculations were made for the equivalent of 10 units of ligase*
 
 
 
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://ivaan.com/protocols/131.html>`__.
 
+
+This method is based, with permission, on an original protocol available `here <http://ivaan.com/protocols/131.html>`_.

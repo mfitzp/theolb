@@ -1,8 +1,9 @@
 Chemiluminescent Detection
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: chemiluminescence,luminol
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 Homemade chemiluminescent detection recipe
 
@@ -32,7 +33,9 @@ Method
 * 250 ul 250 mM Luminol   (final 1.25mM Luminol)
 
 
-    Keep 2-3 weeks at 4°C
+*Keep 2-3 weeks at 4°C*
+
+
 
 - Solution B (1ml): 
 
@@ -40,7 +43,9 @@ Method
 * 900 ul water
 
 
-    Keep 2-3 weeks at 4°C
+*Keep 2-3 weeks at 4°C*
+
+
 
 - Combine 1 ml Solution A + 3 ul Solution B (5ml Solution A  +15ul Solution B for each blot)
 
@@ -49,6 +54,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/homemade_ecl.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/homemade_ecl.htm>`_.

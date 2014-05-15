@@ -1,21 +1,23 @@
 6X DNA Loading Buffer for Agarose
 ========================================================================================================
 
-.. sectionauthor::  <jt03@ic.ac.uk>
-.. tags:: buffer,loading-buffer,dna,molecular-biology,agarose,dna-loading-buffer,media-solutions
+.. sectionauthor:: jt03 <jt03@ic.ac.uk>
+
+Contributed by  <jt03@ic.ac.uk>
 
 Easy to use, add 2ul per 10ul of DNA solution.
 
 
 
 
-    Ficoll 400 performs better than glycerol or sucrose based loading buffers.
->
->EDTA and SDS are included as enzyme inhibitor and protein denaturant respectively, they help sharpen up bands a bit.
->
->Orange G is the dye of choice as it won't obscure smaller DNA bands like other dyes.
->
->
+Ficoll 400 performs better than glycerol or sucrose based loading buffers.
+
+EDTA and SDS are included as enzyme inhibitor and protein denaturant respectively, they help sharpen up bands a bit.
+
+Orange G is the dye of choice as it won't obscure smaller DNA bands like other dyes.
+
+
+
 
 
 
@@ -40,12 +42,17 @@ Method
 4.	Ultrapure H2O to 10 mls
 
 
+
 - Add a small pinch of Orange G (Don't use your fingers). You're aiming for a deep orange colour. 
+
 
 
 - Leave on a shaker/shaking incubator for an hour or so (it takes a while to dissolve)
 
+
 - Once dissolved it's ready to use. Store at RT, lasts forever.
+
+
 
 
 

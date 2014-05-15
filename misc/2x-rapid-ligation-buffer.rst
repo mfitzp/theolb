@@ -1,8 +1,9 @@
 2X Rapid Ligation Buffer
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: buffer,rapid-ligation,media-solutions
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 2X Rapid Ligation Buffer (ProMega)
 
@@ -30,6 +31,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://www.promega.com/tbs/9pim822/9pim822.pdf>`__.
 
+This method is based, with permission, on an original protocol available `here <http://www.promega.com/tbs/9pim822/9pim822.pdf>`_.

@@ -1,8 +1,9 @@
 Silica-based Plasmid Miniprep (vacuum manifold)
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: miniprep,plasmid,silica,vacuum
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 Silica-based Plasmid Miniprep (vacuum manifold version)
 
@@ -31,6 +32,7 @@ Method
 * Estimate volume and resuspend silica in 2 vols 6M Guanidine Hydrochloride-1M KOAc buffer, pH 5.5.
 
 
+
 - Lyse bacteria
 
 * Pellet 1.5 mls culture in microcentrifuge tube 10 sec @ 14,000 rpm
@@ -41,7 +43,9 @@ Method
 * Put a cleaned Qiagen mini prep1 column on manifold (i.e. QIAvac 24 Cat#19403) and load  200ul of silica suspension. Do not have the vacuum on at this stage
 
 
-    We use the used Qiagen columns from the mini prep and gel extraction kits. To clean these columns pass 1-2ml H20 (65C) followed by 0.5ml EtOH wash.
+*We use the used Qiagen columns from the mini prep and gel extraction kits. To clean these columns pass 1-2ml H20 (65C) followed by 0.5ml EtOH wash.*
+
+
 
 - Isolate plasmid DNA
 
@@ -53,12 +57,15 @@ Method
 
 
 
+
 References
 ----------
 
 
-J BROWN `A rapid, non-toxic protocol for sequence-ready plasmid DNA <http://dx.doi.org/10.1016/S1366-2120(08)70079-5>`__ *Technical Tips Online* (1997)
-`10.1016/S1366-2120(08)70079-5 <http://dx.doi.org/10.1016/S1366-2120(08)70079-5>`__
+J BROWN `A rapid, non-toxic protocol for sequence-ready plasmid DNA <http://dx.doi.org/10.1016/S1366-2120(08)70079-5>`_ *Technical Tips Online* (1997)
+`10.1016/S1366-2120(08)70079-5 <http://dx.doi.org/10.1016/S1366-2120(08)70079-5>`_
+
+
 
 
 

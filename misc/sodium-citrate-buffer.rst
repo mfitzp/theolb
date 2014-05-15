@@ -1,8 +1,9 @@
 Sodium Citrate Buffer
 ========================================================================================================
 
-.. sectionauthor:: Luke Hammond <l.hammond@uq.edu.au>
-.. tags:: buffer,sodium-citrate,media-solutions
+.. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
+
+Contributed by Luke Hammond <l.hammond@uq.edu.au>
 
 10mM Sodium Citrate, 0.05% Tween 20, pH 6.0
 
@@ -23,7 +24,9 @@ Method
 
 - Mix to dissolve.
 
+
 - Adjust pH to 6.0 with 1N HCl.
+
 
 - Add 0.5 ml of Tween 20 and mix well.
 
@@ -32,6 +35,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://web.qbi.uq.edu.au/microscopy/?page_id=531>`__.
 
+This method is based, with permission, on an original protocol available `here <http://web.qbi.uq.edu.au/microscopy/?page_id=531>`_.

@@ -1,17 +1,19 @@
 X-gal overlay assay for Yeast plates
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: yeast,xgal,overlay-assay
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 X-gal overlay assay for Yeast plates
 
 
 
 
-    We find that this method is less sensitive than the "standard" lacZ filter lifts and can be useful if  your bait in the yeast two hybrid assay has  weak self activation. 
->
->Use half of stock solution if you are only overlaying up to eight large plates. Use 3.5 ml per small plates (60mmX15mm), or 7ml for large plates (100mmX15mm).
+We find that this method is less sensitive than the "standard" lacZ filter lifts and can be useful if  your bait in the yeast two hybrid assay has  weak self activation. 
+
+Use half of stock solution if you are only overlaying up to eight large plates. Use 3.5 ml per small plates (60mmX15mm), or 7ml for large plates (100mmX15mm).
+
 
 
 
@@ -32,17 +34,23 @@ Method
 - Preparation of Low-Melt-Agarose:
 To 100ml Stock Solution add 0.5 g low melt agar and microwave in ten or fifteen-second intervals until solution becomes clear and over 65C.
 
+
 - Let solution cool for a minute or two then add:
 10ul of Xgal (100mg/ml) for every ml of solution you are using. (you can use the unused portions of the gel for up to a week)
 0.5ul of beta mercaptoethanol (BME) for every ml of solution.
 
-    From the time you add the  BME until gel solidifies it is best to work in a fume hood.
+*From the time you add the  BME until gel solidifies it is best to work in a fume hood.*
+
+
 
 - Apply directly onto yeast plates (3.5ml small or 7ml large plates)  w/ plastic pipette or simply pour from a measured falcon tube.
 
+
 - Cover immediately with foil (to keep dark) and let sit for 10 minutes.
 
+
 - Wrap in parafilm and put at 30C. Strong inducers should turn blue within 1-2 hours, weaker ones over the next 12-24 hours.
+
 
 - Colonies may be picked through the top agar for a few days later and grown if appropriate selection media.
 
@@ -51,6 +59,5 @@ To 100ml Stock Solution add 0.5 g low melt agar and microwave in ten or fifteen-
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/x-gal_overlay_assay_for_yeast_plates.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/x-gal_overlay_assay_for_yeast_plates.htm>`_.

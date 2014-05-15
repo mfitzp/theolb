@@ -1,15 +1,17 @@
 M9 Plates -Leu
 ========================================================================================================
 
-.. sectionauthor:: Ian Chin-Sang <chinsang@queensu.ca>
-.. tags:: plates,m9,leu
+.. sectionauthor:: ianchinsang <chinsang@queensu.ca>
+
+Contributed by Ian Chin-Sang <chinsang@queensu.ca>
 
 The following recipe is for one litre of plates.  
 
 
 
 
-    The salts need to be autoclaved separately from the agar, for this reason prepare the following two mixtures in flasks (make sure one is a 2 litre flask since you are going to combine the mixes after autoclaving):
+The salts need to be autoclaved separately from the agar, for this reason prepare the following two mixtures in flasks (make sure one is a 2 litre flask since you are going to combine the mixes after autoclaving):
+
 
 
 
@@ -25,10 +27,12 @@ Method
 * 0.5g NH4Cl
 
 
+
 - Mix 2:  Agar:
 
 * 15g Agar
 * 500ml Water
+
 
 
 - Autoclave mixes 1 and 2—after autoclaving combine the two mixes and add the following sterile solutions to the mixture:
@@ -39,6 +43,7 @@ Method
 * 0.69g -Leu Drop Out
 
 
+
 - Pour plates and label appropriately.  1L = ~40 plates
 
 
@@ -46,6 +51,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://130.15.90.245/m9_plates_-leu.htm>`__.
 
+This method is based, with permission, on an original protocol available `here <http://130.15.90.245/m9_plates_-leu.htm>`_.

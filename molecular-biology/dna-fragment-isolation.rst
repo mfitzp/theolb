@@ -1,8 +1,9 @@
 DNA fragment isolation
 ========================================================================================================
 
-.. sectionauthor:: Ivan Delgado <ivanjdo@gmail.com>
-.. tags:: dna,molecular-biology,low-melting-agarose,tbe-buffer,chloroform,phenol
+.. sectionauthor:: DNAholic <ivanjdo@gmail.com>
+
+Contributed by Ivan Delgado <ivanjdo@gmail.com>
 
 Isolate a DNA fragment from Low Melting agarose
 
@@ -28,23 +29,33 @@ Method
 
 - Make 100 mL of 1.0% Agarose in 0.5-1% TBE and let it solidify in gel apparatus with an appropiate comb
 
+
 - Cut out portion of gel to be used for fragment isolation
+
 
 - Prepare ~50 mL of 1% Low Melting Agarose and load on cut out region of gel. Let it solidify at 4oC (alternatively, all the gel can be made of LM agarose)
 
+
 - Load samples and separate bands by running gel at 4oC (RT is also ok)
+
 
 - Cut bands out (visualization in UV box) and place them in a 1.5 mL eppendorf tube
 
+
 - Centrifuge samples for 10 secs and add 1X Vol (~200 mL) of TE buffer (can store agarose at -20oC if necessary)
+
 
 - Incubate at 65oC for 5 minutes, vortex into solution, incubate for 5 more minutes and vortex again (the idea of this step is to completely melt the LM agarose and leave as fluid a solution as possible (addition of extra TE buffer may aid in this process)
 
+
 - Alkalike Phosphatase treatment if necessary
+
 
 - Add ~300-400 mL of TE-saturated Phenol, incubate at 65oC (2-3 minutes) if phenol was cold, vortex and centrifuge for 3 minutes
 
+
 - Add ~300-400 mL of 24 Chloroform : 1 isoamyl alcohol, vortex until solution turns milky/clowdy (~30 secs) and centrifuge for 3 minutes
+
 
 - Precipitate DNA (upper phase) with 0.8X Vol of 2-propanol, 0.1X Vol of 3M NaOAc, pH 5.2, by mixing and centrifuging at 4oC for 30 minutes. Dry pellet in SpeedVac (5 miniutes) and resuspend in 20 uL of water
 
@@ -53,6 +64,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://ivaan.com/protocols/108.html>`__.
 
+This method is based, with permission, on an original protocol available `here <http://ivaan.com/protocols/108.html>`_.

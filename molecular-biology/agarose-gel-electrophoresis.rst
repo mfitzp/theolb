@@ -1,8 +1,9 @@
 Agarose gel electrophoresis
 ========================================================================================================
 
-.. sectionauthor:: Ivan Delgado <ivanjdo@gmail.com>
-.. tags:: tbe,molecular-biology,agarose
+.. sectionauthor:: DNAholic <ivanjdo@gmail.com>
+
+Contributed by Ivan Delgado <ivanjdo@gmail.com>
 
 The preparation, and running, of an agarose gel for nucleic acid separation.
 
@@ -26,24 +27,33 @@ Method
 2% = 100 bp - 2 kb
 4% = 20 bp - 500 bp
 
+
 - Mix the desired amoune of agarose with 1X TBE in a flask. For a 1% gel, add 1 g of agarose to 100 mL of 1X TBE
 
 
+
 - Microwave into solution (while microwaving, take flask out of microwave swirl a few times). It is important the the agarose is completely into solution
+
 
 - Add EtBr if desired
 
 RECOMMENDED: add EtBr to the gel, this way it is quicker to visualize the DNA fragments right after the gel run
 
+
 - Pour gel into agarose gel set up
+
 
 - Wait until the gel solidified (~1 hr)
 
+
 - Mix DNA samples with loading buffer (1 mL of 10X loading buffer for each 9 mL of DNA sample)
+
 
 - Carefully load DNA samples into the wells of the agarose gel
 
+
 - Using 1X TBE as running buffer, run the agarose gel (100 V is typically more than enough)
+
 
 - Visualize the DNA bands on a UV box or Immaging system
 
@@ -52,6 +62,5 @@ RECOMMENDED: add EtBr to the gel, this way it is quicker to visualize the DNA fr
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://ivaan.com/protocols/185.html>`__.
 
+This method is based, with permission, on an original protocol available `here <http://ivaan.com/protocols/185.html>`_.

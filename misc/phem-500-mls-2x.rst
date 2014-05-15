@@ -1,8 +1,9 @@
 PHEM (500 mls) 2x 
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: phem
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 PHEM (500 mls) 2x 
 
@@ -29,6 +30,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html>`__.
 
+This method is based, with permission, on an original protocol available `here <http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html>`_.

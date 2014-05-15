@@ -1,8 +1,9 @@
 Automatic unzip/untar using correct tool
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: unzip,tar,uncompress
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 An alias for bash profile to automatically unzip/untar compressed files using the correct tool, without needing to know the syntax.
 
@@ -37,6 +38,7 @@ An alias for bash profile to automatically unzip/untar compressed files using th
 
 
 
+
 - From the prompt compress any file with `extract <filename>`
 
 
@@ -44,6 +46,5 @@ An alias for bash profile to automatically unzip/untar compressed files using th
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://unix.stackexchange.com/a/168>`__.
 
+This method is based, with permission, on an original protocol available `here <http://unix.stackexchange.com/a/168>`_.

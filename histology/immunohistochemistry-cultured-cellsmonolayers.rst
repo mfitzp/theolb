@@ -1,15 +1,17 @@
 Immunohistochemistry (cultured cells/monolayers)
 ========================================================================================================
 
-.. sectionauthor:: Luke Hammond <l.hammond@uq.edu.au>
-.. tags:: histology
+.. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
+
+Contributed by Luke Hammond <l.hammond@uq.edu.au>
 
 Immunohistochemistry (cultured cells and monolayers)
 
 
 
 
-    This protocol outlines a general method for immunohistochemical staining and can be adjusted to suit the antibodies used.
+This protocol outlines a general method for immunohistochemical staining and can be adjusted to suit the antibodies used.
+
 
 
 
@@ -26,29 +28,42 @@ Method
 
 - Fix cells: 4% paraformaldehyde in PBS, pH7.4 for 30-90 mins RT
 
+
 - Wash gently x3 PBS
+
 
 - Permeabilise cells with 0.1% TX-100 in PBS for 5mins
 
+
 - Wash 2x in PBS
+
 
 - Block for 10min in 0.5% BSA/PBS (but can be as long as you like)
 
+
 - While blocking should make up primary antibody, dilute antibody in BSA/PBS, need 25-40ul/coverslip
 
-    E.g. Antibody 1:50 = 2ul in 100ul BSA/PBS
+*E.g. Antibody 1:50 = 2ul in 100ul BSA/PBS*
+
+
 
 - Aliquot onto parafilm with sufficient space between coverslips
 
+
 - Pick up coverslip and dry edges gently (touch corner to kimwipe) and place coverslip cells down onto antibody drop. Incubate for 60-90min RT
+
 
 - Flip coverslip so cells face up and wash gently with BSA/PBS x 3
 
+
 - Prepare secondary antibody (25-45ul/coverslip) and incubate for 45-60min       
 
-    Many 2° Ab are used 1:400 (e.g. 1ul per 400ul) in BSA/PBS
+*Many 2° Ab are used 1:400 (e.g. 1ul per 400ul) in BSA/PBS*
+
+
 
 - Wash x3 BSA/PBS
+
 
 - Wash x3 PBS
 
@@ -57,6 +72,5 @@ Method
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://web.qbi.uq.edu.au/microscopy/?page_id=474>`__.
 
+This method is based, with permission, on an original protocol available `here <http://web.qbi.uq.edu.au/microscopy/?page_id=474>`_.

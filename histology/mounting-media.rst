@@ -1,8 +1,9 @@
 Mounting Media
 ========================================================================================================
 
-.. sectionauthor:: Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
-.. tags:: histology,media,mounting,media-solutions
+.. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
+
+Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
 
 Mounting Media
 
@@ -23,13 +24,13 @@ Method
 
 - Combine ingredients in suitable container. Store for use.
 
-    Store at 4oC.
+*Store at 4oC.*
 
 
 
 
 
 
-    This method is based, with permission, on an original protocol available 
-    `here <(http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html>`__.
 
+
+This method is based, with permission, on an original protocol available `here <http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html>`_.
