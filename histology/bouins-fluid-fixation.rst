@@ -1,4 +1,4 @@
-Bouin&#39;s fluid fixation
+Bouin's fluid fixation
 ========================================================================================================
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
