@@ -1,0 +1,20 @@
+
+Model organisms
+===============
+
+Model organism protocols.
+
+.. toctree::
+   :maxdepth: 2
+   
+   model-organisms/c-elegans-immunoprecipitation.rst
+   model-organisms/embryo-4d-micro-zeiss-axioplan-2-axiovision-45.rst
+   model-organisms/embryo-4d-microscopy-mounting.rst
+   
+Indices and tables
+------------------
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+

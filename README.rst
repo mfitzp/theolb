@@ -1,0 +1,11 @@
+The Open Lab Book
+=================
+
+A collection of open lab protocols collected from around the internet. Contributions
+welcome - if you would like to add your own protocols, go ahead!
+
+License and Copying
+-------------------
+
+Licensed under the Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5)
+
