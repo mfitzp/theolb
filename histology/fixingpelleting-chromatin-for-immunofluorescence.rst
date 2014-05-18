@@ -3,7 +3,7 @@ Fixing/pelleting chromatin for immunofluorescence
 
 .. sectionauthor:: timothymitchison <timothy_mitchison@hms.harvard.edu>
 
-Contributed by Timothy Mitchison <timothy_mitchison@hms.harvard.edu>
+Contributed by `Timothy Mitchison <timothy_mitchison@hms.harvard.edu>`__, Harvard Medical School, Boston, MA, United States
 
 Fixing and pelleting chromatin/nuclei from extracts onto coverslips for immunofluorescence.
 
