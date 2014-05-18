@@ -3,7 +3,7 @@ Neuron Recovery of Neurobiotin/biocytin cells
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Neuron recovery of neurobiotin/biocytin filled neurons. The method may applied to free-floating or cryostat sectioned fixed tissue.
 

@@ -3,7 +3,7 @@ Excision of Clones as pBluescript from lZAPII
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Excision of Clones as pBluescript from lZAPII
 

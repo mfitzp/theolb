@@ -3,7 +3,7 @@ Differentiation to M1/M2 macrophages GM-CSF/M-CSF
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 GM-CSF/M-CSF differentiation of CD14+ PBMCs to M1/M2 macrophage subsets.
 

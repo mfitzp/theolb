@@ -3,7 +3,7 @@ Chrome Alum Gelatin Slide Coating
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Chrome Alum Gelatin Slide Coating
 

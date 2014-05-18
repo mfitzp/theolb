@@ -3,7 +3,7 @@
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 8% Paraformaldehyde for Immunofluorescence
 

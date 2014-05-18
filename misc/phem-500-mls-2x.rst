@@ -3,7 +3,7 @@ PHEM (500 mls) 2x
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 PHEM (500 mls) 2x 
 

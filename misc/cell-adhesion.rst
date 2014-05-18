@@ -3,7 +3,7 @@ Cell Adhesion
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Cell Adhesion assay protocol from the Laurie Lab
 

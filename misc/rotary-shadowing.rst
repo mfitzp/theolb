@@ -3,7 +3,7 @@ Rotary Shadowing
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 In EM rotary shadowing allows resolution of portions of the specimen that might otherwise have been obscured by a static shadow. 
 

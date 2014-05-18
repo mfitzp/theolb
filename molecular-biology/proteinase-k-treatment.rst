@@ -3,7 +3,7 @@ Proteinase K treatment
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Basic proteinase K treatment
 

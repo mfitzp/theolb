@@ -3,7 +3,7 @@ Isolation of LDL From Human Plasma
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 This procedure involves use of human plasma, a potentially dangerous source of blood-borne disease. Wear long-cuffed gloves, and eye-protection.
 

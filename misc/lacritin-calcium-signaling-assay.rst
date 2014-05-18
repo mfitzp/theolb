@@ -3,7 +3,7 @@ Lacritin Calcium Signaling Assay
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Lacritin Calcium Signaling Assay - Ratiometric method as performed by the Putney Lab (see references).
 

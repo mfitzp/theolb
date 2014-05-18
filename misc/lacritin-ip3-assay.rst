@@ -3,7 +3,7 @@ Lacritin IP3 Assay
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Lacritin IP3 Assay based on Webb et al. (Eur. J. Biochem. 234:714-722,1995)
 

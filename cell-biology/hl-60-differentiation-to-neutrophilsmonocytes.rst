@@ -3,7 +3,7 @@ HL-60 differentiation to neutrophils/monocytes
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Differentiation of HL-60 to neutrophil or monocyte-like cells by Vitamin A (ATRA) and Vitamin D (1a,25(OH)2D3)
 

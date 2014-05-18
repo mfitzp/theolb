@@ -3,7 +3,7 @@
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 2X Rapid Ligation Buffer (ProMega)
 

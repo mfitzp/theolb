@@ -3,7 +3,7 @@ EMS Mutagenesis
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 EMS Mutagenesis protocol
 

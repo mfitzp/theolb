@@ -3,7 +3,7 @@ Primary monocyte differentiation DCs, GM-CSF/IL-4
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Primary monocyte differentiation to DCs with GM-CSF and IL-4
 

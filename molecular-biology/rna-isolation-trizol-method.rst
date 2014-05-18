@@ -3,7 +3,7 @@ RNA-isolation (TRIZOL method)
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Isolation of RNA from whole worms using TRIZOL reagent (Gibco-BRL)
 

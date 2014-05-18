@@ -3,7 +3,7 @@ Dewaxing Paraffin Sections
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Dewaxing Paraffin Sections Sections must be free of wax to allow aqueous solutions to penetrate.
 

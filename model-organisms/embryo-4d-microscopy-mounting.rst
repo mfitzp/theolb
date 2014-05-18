@@ -3,7 +3,7 @@ Embryo 4D microscopy mounting
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Embryo 4D video Microscopy preparation of slides and embryos.
 

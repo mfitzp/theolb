@@ -3,7 +3,7 @@ Immunohistochemistry with TSA
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Immunohistochemistry with Tyramide Signal Amplification (TSA) using Perkin Elmer kit & Protocol for Vibratome Sections
 

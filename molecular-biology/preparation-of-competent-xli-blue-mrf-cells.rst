@@ -3,7 +3,7 @@ Preparation of Competent XLI-Blue MRF’ Cells
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Preparation of Competent XLI-Blue MRF’ Cells (ref. p. 1.76 of Maniatis)
 

@@ -3,7 +3,7 @@ Immunohistochemistry (cultured cells/monolayers)
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Immunohistochemistry (cultured cells and monolayers)
 

@@ -3,7 +3,7 @@ Colloidal Coomassie Blue Stain
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Colloidal Coomassie Blue Stain for SDS-PAGE gel
 

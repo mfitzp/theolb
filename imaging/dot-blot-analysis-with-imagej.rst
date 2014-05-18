@@ -3,7 +3,7 @@ Dot Blot Analysis with ImageJ
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Analyzing a dot blot in ImageJ by background subtraction and measuring the integrated density of each dot. 
 

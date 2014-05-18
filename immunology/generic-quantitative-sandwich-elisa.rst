@@ -3,7 +3,7 @@ Generic (Quantitative) Sandwich ELISA
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 A generic ELISA protocol with optional quantitative step.
 

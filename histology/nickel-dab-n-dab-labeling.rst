@@ -3,7 +3,7 @@ Nickel DAB (N-DAB) Labeling
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Nickel DAB (N-DAB) Labeling for sections
 

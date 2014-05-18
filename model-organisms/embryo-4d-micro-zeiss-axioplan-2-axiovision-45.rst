@@ -3,7 +3,7 @@ Embryo 4D Micro (Zeiss Axioplan 2 Axiovision 4.5)
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Embryo 4D Microscopy Using the Zeiss Axioplan 2 and Axiovision 4.5 Software
 

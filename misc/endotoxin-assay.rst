@@ -3,7 +3,7 @@ Endotoxin Assay
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Endotoxin Assay
 

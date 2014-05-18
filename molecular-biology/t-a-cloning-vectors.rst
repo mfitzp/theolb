@@ -3,7 +3,7 @@ T-A cloning Vectors
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 A method for direct cloning a PCR product, by the T-vector technique. This is cheap and easy way to clone PCR products with A 3’ overhangs.
 

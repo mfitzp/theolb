@@ -3,7 +3,7 @@ MACS CD14+ Separation of monocytes
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Isolation of CD14+ subset of monocytes by MACS magnetic bead isolation.
 

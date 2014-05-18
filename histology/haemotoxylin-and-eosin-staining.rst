@@ -3,7 +3,7 @@ Haemotoxylin and Eosin Staining
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Haemotoxylin and eosin stain is used to stain cell nuclei blue and the cytoplasm pink/red to aid visualization of tissue structure and morphology.
 The staining method involves application of the basic dye haematoxylin, which stains basophilic structures, usually the ones containing nucleic acids, such as the ribosomes and the chromatin and alcohol-based acidic eosin Y, which colors eosinophilic structures, generally composed of intracellular or extracellular protein, bright pink to yellow.

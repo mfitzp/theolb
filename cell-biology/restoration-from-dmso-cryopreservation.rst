@@ -3,7 +3,7 @@ Restoration from DMSO cryopreservation
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by Martin Fitzpatrick <martin.fitzpatrick@gmail.com>
+Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
 
 Restoration of culture cells from storage at -80°C with 10% DMSO cryopreservation.
 

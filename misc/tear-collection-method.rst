@@ -3,7 +3,7 @@ Tear Collection Method
 
 .. sectionauthor:: glaurie <>
 
-Contributed by Gordon W. Laurie
+Contributed by Gordon W. Laurie, School of Medicine, University of Virginia, United States
 
 Tear Collection Method; Scot Bower and Denise Sediq 4.13.09 developed from Jones 1997
 

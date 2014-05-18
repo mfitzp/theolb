@@ -3,7 +3,7 @@ Animal Trans-cardial Perfusion Technique
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by Luke Hammond <l.hammond@uq.edu.au>
+Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
 
 Animal Trans-cardial Perfusion Technique
 

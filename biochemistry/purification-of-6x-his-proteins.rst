@@ -3,7 +3,7 @@ Purification of 6X HIS Proteins
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Purification of 6XHIS proteins with cell extraction buffer
 

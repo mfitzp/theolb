@@ -3,7 +3,7 @@ Transformation of Frozen Saccharomyces cerevisiae
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Transformation of (Frozen) Competent Saccharomyces cerevisiae
 

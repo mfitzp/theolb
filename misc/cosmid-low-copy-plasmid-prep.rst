@@ -3,7 +3,7 @@ Cosmid / Low Copy Plasmid Prep
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Prep for cosmids or low copy number plasmids.
 

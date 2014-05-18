@@ -3,7 +3,7 @@ Antibody Purification using Blotted Antigen
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by Ian Chin-Sang <chinsang@queensu.ca>
+Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
 
 Antibody Purification using Blotted Antigen
 
