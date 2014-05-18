@@ -27,7 +27,6 @@ Contents
    bioinformatics
    cell-biology
    histology
-   images
    imaging
    immunology
    misc

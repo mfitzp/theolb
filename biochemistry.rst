@@ -7,7 +7,6 @@ Biochemistry protocols.
    :maxdepth: 2
    
    biochemistry/extracting-cholesterol-and-lipids-from-cells
-   biochemistry/extracting-cholesterol-and-lipids-from-cells-0
    biochemistry/in-gel-tryptic-digest-for-protein-id-by-ms
    biochemistry/purification-of-6x-his-proteins       
         
