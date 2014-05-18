@@ -1,8 +1,8 @@
 
-Imaging
-=======
+Immunology
+==========
 
-Imaging protocols.
+Immunology protocols.
 
 .. toctree::
    :maxdepth: 2
