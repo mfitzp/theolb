@@ -46,11 +46,3 @@ Buffer and solution protocols.
    buffers/sodium-citrate-buffer
 
 
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

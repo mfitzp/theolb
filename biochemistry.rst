@@ -10,11 +10,3 @@ Biochemistry protocols.
    biochemistry/in-gel-tryptic-digest-for-protein-id-by-ms
    biochemistry/purification-of-6x-his-proteins       
         
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

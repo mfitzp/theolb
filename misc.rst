@@ -50,10 +50,5 @@ Miscellaneous protocols.
    misc/x-gal-overlay-assay-for-yeast-plates
    misc/zymolyase-plasmid-recovery-from-yeast
 
-Indices and tables
-------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

@@ -11,10 +11,5 @@ Model organism protocols.
    model-organisms/embryo-4d-micro-zeiss-axioplan-2-axiovision-45.rst
    model-organisms/embryo-4d-microscopy-mounting.rst
    
-Indices and tables
-------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

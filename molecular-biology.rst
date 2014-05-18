@@ -42,10 +42,3 @@ Molecular biology protocols.
    molecular-biology/transformation-of-plasmid-dna-to-e-coli   
    molecular-biology/transformation-of-xli-blue-mrf-competent-cells
    
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

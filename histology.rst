@@ -37,10 +37,5 @@ Histology protocols.
    histology/tissue-preparation-for-vibratome-sectioning   
    histology/zenkers-fluid-fixation
 
-Indices and tables
-------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

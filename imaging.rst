@@ -13,10 +13,4 @@ Imaging protocols.
    imaging/dapi-counterstain-adherent-cellssections
    imaging/measuring-cell-fluorescence-using-imagej
 
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
