@@ -37,6 +37,9 @@ Buffer and solution protocols.
    buffers/8-paraformaldehyde-for-immunofluorescence
    buffers/colloidal-coomassie-blue-solution
    buffers/colloidal-coomassie-blue-stain
+   buffers/high-salt-buffer
+   buffers/homogenization-buffer
+   buffers/isolation-buffer
    buffers/pbs-1x-in-1l
    buffers/pbs-5x-in-500-mls
    buffers/phem-500-mls-2x
