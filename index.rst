@@ -25,6 +25,7 @@ Contents
 
    biochemistry
    bioinformatics
+   buffers
    cell-biology
    histology
    imaging
