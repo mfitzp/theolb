@@ -1,4 +1,4 @@
-Zenker&#39;s fluid fixation
+Zenker's fluid fixation
 ========================================================================================================
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
