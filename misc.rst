@@ -23,10 +23,7 @@ Miscellaneous protocols.
    misc/frozen-yeast-competent-cells
    misc/heparan-sulfate-chain-analysis
    misc/heparanase-western-blotting
-   misc/high-salt-buffer
-   misc/homogenization-buffer
    misc/hss-depletion-conditions-for-xkcm1
-   misc/isolation-buffer
    misc/isolation-of-ldl-from-human-plasma
    misc/l-b-broth
    misc/lacritin-calcium-signaling-assay
