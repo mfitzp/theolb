@@ -5,7 +5,7 @@ Cell biology
 Cell biology protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    cell-biology/cell-culture-freezing-media
    cell-biology/hl-60-differentiation-to-neutrophilsmonocytes

@@ -4,7 +4,7 @@ Buffers & Solutions
 Buffer and solution protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    buffers/01-m-glycine-hcl-ph-27
    buffers/05-m-edta

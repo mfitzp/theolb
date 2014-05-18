@@ -5,7 +5,7 @@ Immunology
 Immunology protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    immunology/antibody-purification-using-blotted-antigen
    immunology/b-cell-enrichment-via-dynabeads

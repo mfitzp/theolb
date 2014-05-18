@@ -5,7 +5,7 @@ Histology
 Histology protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    histology/acetic-alcohol-fixation   
    histology/antibody-diluent-for-ihc   

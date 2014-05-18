@@ -5,7 +5,7 @@ Molecular biology
 Molecular biology protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    molecular-biology/5x-long-pcr-buffer   
    molecular-biology/6x-dna-loading-buffer-for-agarose   

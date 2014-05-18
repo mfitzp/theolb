@@ -5,7 +5,7 @@ Imaging
 Imaging protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    imaging/animal-trans-cardial-perfusion-technique
    imaging/dot-blot-analysis-with-imagej

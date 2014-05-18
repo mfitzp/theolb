@@ -4,7 +4,7 @@ Biochemistry
 Biochemistry protocols.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    biochemistry/extracting-cholesterol-and-lipids-from-cells
    biochemistry/in-gel-tryptic-digest-for-protein-id-by-ms

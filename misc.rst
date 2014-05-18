@@ -4,8 +4,7 @@ Miscellaneous
 Miscellaneous protocols.
 
 .. toctree::
-   :maxdepth: 2
-   
+   :maxdepth: 1
 
    misc/automatic-unzipuntar-using-correct-tool
    misc/brdu-incorporation-for-raft-cultures
