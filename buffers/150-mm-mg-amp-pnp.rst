@@ -16,7 +16,7 @@ Requirements
 ------------
 25 mg AMP-PNP (available from Boehringer Mannheim #102 547)
 90 ul 1 M MgSO4 Stock (150 mM MgSO4)
-225 ml distilled water
+225 ul distilled water
 
 
 Method
@@ -25,7 +25,7 @@ Method
 - Add 25 mg AMP-PNP and 90ul 1 M MgSO4 in a suitable container.
 
 
-- Add 225 ml distilled water to give a final volume of 315 ml. Store at -20oC
+- Add 225 ul distilled water to give a final volume of 315 ul. Store at -20oC
 
 *Store at -20oC*
 
