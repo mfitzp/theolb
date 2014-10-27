@@ -16,18 +16,18 @@ Requirements
 ------------
 30 mM Mg GTP-g-S*
 10 mg GTP-g-S tetralithium salt (available from Boehringer Mannheim #220 467)
-18 ml 1 M MgSO4 Stock (30 mM MgSO4)
-572 ml distilled water
+18 ul 1 M MgSO4 Stock (30 mM MgSO4)
+572 ul distilled water
 
 
 Method
 ------
 
-- Add 30 mM Mg GTP-g-S, 10 mg GTP-g-S tetralithium salt and 18 ml 1 M MgSO4 Stock (30 mM MgSO4) to a suitable container.
+- Add 30 mM Mg GTP-g-S, 10 mg GTP-g-S tetralithium salt and 18 ul 1 M MgSO4 Stock (30 mM MgSO4) to a suitable container.
 
 
 
-- Add 572 ml distilled water to give a final volume of 592 ml. Store at -20oC until required.
+- Add 572 ul distilled water to give a final volume of 592 ul. Store at -20oC until required.
 
 *Store at -20oC*
 
