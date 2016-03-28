@@ -3,7 +3,7 @@ Microtubule Spindowns from Extracts
 
 .. sectionauthor:: timothymitchison <timothy_mitchison@hms.harvard.edu>
 
-Contributed by `Timothy Mitchison <timothy_mitchison@hms.harvard.edu>`__, Harvard Medical School, Boston, MA, United States
+Contributed by `Timothy Mitchison <https://sysbio.med.harvard.edu/facultys/timothy-j-mitchison-phd/>`__, Harvard Medical School, Boston, MA, United States
 
 MAP pelleting protocol. 
 

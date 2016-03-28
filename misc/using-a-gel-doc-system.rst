@@ -3,7 +3,7 @@ Using a Gel Doc system
 
 .. sectionauthor:: paulbarber <paulbarber@ucla.edu>
 
-Contributed by Paul Barber <paulbarber@ucla.edu>
+Contributed by `Paul Barber <https://barberlab.eeb.ucla.edu/>`__
 
 Using a Gel Doc system for imaging gels via UV
 

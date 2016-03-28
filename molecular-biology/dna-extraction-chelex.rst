@@ -3,7 +3,7 @@ DNA Extraction: Chelex
 
 .. sectionauthor:: paulbarber <paulbarber@ucla.edu>
 
-Contributed by Paul Barber <paulbarber@ucla.edu>
+Contributed by `Paul Barber <https://barberlab.eeb.ucla.edu/>`__
 
 DNA Extraction via Chelex
 

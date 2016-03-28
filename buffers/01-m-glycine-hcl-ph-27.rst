@@ -3,7 +3,7 @@
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
+Contributed by `Ian Chin-Sang <http://post.queensu.ca/~chinsang/>`__, Queens University, ON, Canada
 
 0.1 M Glycine-HCl, pH 2.7
 

@@ -3,7 +3,7 @@ L B Broth
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
+Contributed by `Martin Fitzpatrick <http://martinfitzpatrick.name/>`__, University of Birmingham, United Kingdom
 
 L B Broth
 

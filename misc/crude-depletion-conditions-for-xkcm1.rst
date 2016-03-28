@@ -3,7 +3,7 @@ Crude Depletion Conditions for XKCM1
 
 .. sectionauthor:: timothymitchison <timothy_mitchison@hms.harvard.edu>
 
-Contributed by `Timothy Mitchison <timothy_mitchison@hms.harvard.edu>`__, Harvard Medical School, Boston, MA, United States
+Contributed by `Timothy Mitchison <https://sysbio.med.harvard.edu/facultys/timothy-j-mitchison-phd/>`__, Harvard Medical School, Boston, MA, United States
 
 Crude Depletion Conditions for XKCM1. The following is for depleting a protein present at ~ 10-20 ug/ml in the extract with high affinity polyclonal antibodies, using anti-XKCM1 as an example. (Arshad Desai 3/17/95)
 

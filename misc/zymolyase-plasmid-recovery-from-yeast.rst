@@ -3,7 +3,7 @@ Zymolyase plasmid recovery from Yeast
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
+Contributed by `Ian Chin-Sang <http://post.queensu.ca/~chinsang/>`__, Queens University, ON, Canada
 
 Yeast plasmid Extraction Protocol Using Zymolyase and Manifold Miniprep Method. This is a simple and efficient way to recover plasmids from yeast. There are no glass beads and no phenol:chloroform steps.
 

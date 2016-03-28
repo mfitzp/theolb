@@ -3,7 +3,7 @@ In-gel Tryptic Digest for Protein ID by MS
 
 .. sectionauthor:: timothymitchison <timothy_mitchison@hms.harvard.edu>
 
-Contributed by `Timothy Mitchison <timothy_mitchison@hms.harvard.edu>`__, Harvard Medical School, Boston, MA, United States
+Contributed by `Timothy Mitchison <https://sysbio.med.harvard.edu/facultys/timothy-j-mitchison-phd/>`__, Harvard Medical School, Boston, MA, United States
 
 In-gel Tryptic Digest for Protein ID by Mass Spectrometry
 (David Miyamoto, 2/12/2002). This protocol is based on Shevchenko A, Wilm M, Vorm O, & Mann M. Mass spectrometric sequencing of proteins from silver-stained polyacrylamide gels. Anal Chem 1996, 68:850-8. I have used it with success on both Coomassie and silver-stained gel bands.

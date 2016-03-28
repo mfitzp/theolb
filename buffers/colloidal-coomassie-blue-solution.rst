@@ -3,7 +3,7 @@ Colloidal Coomassie Blue Solution
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
+Contributed by `Ian Chin-Sang <http://post.queensu.ca/~chinsang/>`__, Queens University, ON, Canada
 
 Homemade Colloidal Coomassie Blue Staining
 

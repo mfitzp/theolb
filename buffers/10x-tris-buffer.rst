@@ -3,7 +3,7 @@
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
+Contributed by `Martin Fitzpatrick <http://martinfitzpatrick.name/>`__, University of Birmingham, United Kingdom
 
 Recipe for 10x Tris Buffer, dilute for use
 

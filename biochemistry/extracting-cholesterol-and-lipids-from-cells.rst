@@ -3,7 +3,7 @@ Extracting cholesterol and lipids from cells
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
+Contributed by `Martin Fitzpatrick <http://martinfitzpatrick.name/>`__, University of Birmingham, United Kingdom
 
 This a general method that may not work for all cell/tissue samples - tweak the solvent volumes per quantity of cells, centrifugation time and sonication may be applied for samples that are difficult to disrupt.  For chloroform - handle under a chemical safety hood.
 

@@ -3,7 +3,7 @@ C. elegans microinjection
 
 .. sectionauthor:: ianchinsang <chinsang@queensu.ca>
 
-Contributed by `Ian Chin-Sang <chinsang@queensu.ca>`__, Queens University, ON, Canada
+Contributed by `Ian Chin-Sang <http://post.queensu.ca/~chinsang/>`__, Queens University, ON, Canada
 
 One way to make transgenic animals in C. elegans  we use a microinjection technique. Briefly, a  DNA construct (plasmid, cosmid or YAC) or PCR product with your gene(s) of interest is mixed with a co-injection marker and injected into the distal gonad (syncytium).  The injected DNA is taken up into the mature oocyte's nucleus.  The DNA exists as an extrachromosomal array (i.e. not integrated in the chromosome) which segregates randomly and can be lost, that is why we need a marker to follow which animals have the array.  F1 progeny that show the co-injection marker phenotype are picked and transgenic lines are established by keeping those animals that segregate the array in their F2 generation.  Usually 1 in 10  F1 progeny with the array will give you a transgenic line.
 

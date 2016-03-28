@@ -3,7 +3,7 @@ PCR product “clean-up” (SAP/EXO)
 
 .. sectionauthor:: paulbarber <paulbarber@ucla.edu>
 
-Contributed by Paul Barber <paulbarber@ucla.edu>
+Contributed by `Paul Barber <https://barberlab.eeb.ucla.edu/>`__
 
 The purpose of this procedure is used to chew up excess primers and remove excess
 dNTPs from your PCR product. This proceedure is necessary to ensure clean and

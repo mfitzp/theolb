@@ -3,7 +3,7 @@ Sodium Citrate Buffer
 
 .. sectionauthor:: lukehammond <l.hammond@uq.edu.au>
 
-Contributed by `Luke Hammond <l.hammond@uq.edu.au>`__, QBI, The University of Queensland, Australia
+Contributed by `Luke Hammond <http://web.qbi.uq.edu.au/microscopy/>`__, QBI, The University of Queensland, Australia
 
 10mM Sodium Citrate, 0.05% Tween 20, pH 6.0
 

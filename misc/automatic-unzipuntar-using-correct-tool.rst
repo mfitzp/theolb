@@ -3,7 +3,7 @@ Automatic unzip/untar using correct tool
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Martin Fitzpatrick <martin.fitzpatrick@gmail.com>`__, University of Birmingham, United Kingdom
+Contributed by `Martin Fitzpatrick <http://martinfitzpatrick.name/>`__, University of Birmingham, United Kingdom
 
 An alias for bash profile to automatically unzip/untar compressed files using the correct tool, without needing to know the syntax.
 

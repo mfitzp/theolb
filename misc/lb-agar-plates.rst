@@ -3,7 +3,7 @@ LB Agar Plates
 
 .. sectionauthor:: paulbarber <paulbarber@ucla.edu>
 
-Contributed by Paul Barber <paulbarber@ucla.edu>
+Contributed by `Paul Barber <https://barberlab.eeb.ucla.edu/>`__
 
 LB agar plates for cloning
 
