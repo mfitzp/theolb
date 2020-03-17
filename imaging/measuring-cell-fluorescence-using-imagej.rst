@@ -3,7 +3,7 @@ Measuring cell fluorescence using ImageJ
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Martin Fitzpatrick <http://martinfitzpatrick.name/>`__, University of Birmingham, United Kingdom
+Contributed by `Luke Hammond <https://qbi.uq.edu.au/research/facilities/microscopy-facility/>`__, QBI, The University of Queensland, Australia
 
 Determining the level of cellular fluorescence from fluorescence microscopy images in ImageJ
 
@@ -69,4 +69,4 @@ Notice that rounded up mitotic cells appear to have a much higher level of stain
 
 
 
-This method is based, with permission, on an original protocol available `here <http://sciencetechblog.com/2011/05/24/measuring-cell-fluorescence-using-imagej/>`_.
+This method is based, with permission, on an original protocol from `QBI, The University of Queensland, Australia <https://qbi.uq.edu.au/research/facilities/microscopy-facility>`.
