@@ -64,7 +64,5 @@ Notice that rounded up mitotic cells appear to have a much higher level of stain
 
 
 
+https://sciencetechblog.files.wordpress.com/2011/05/measuring-cell-fluorescence-using-imagej.pdf
 
-
-
-This method is based, with permission, on an original protocol from `QBI, The University of Queensland, Australia <https://qbi.uq.edu.au/research/facilities/microscopy-facility>`_.
