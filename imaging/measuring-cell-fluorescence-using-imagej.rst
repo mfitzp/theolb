@@ -3,8 +3,6 @@ Measuring cell fluorescence using ImageJ
 
 .. sectionauthor:: mfitzp <martin.fitzpatrick@gmail.com>
 
-Contributed by `Luke Hammond <https://qbi.uq.edu.au/research/facilities/microscopy-facility/>`__, QBI, The University of Queensland, Australia
-
 Determining the level of cellular fluorescence from fluorescence microscopy images in ImageJ
 
 
